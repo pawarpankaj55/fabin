@@ -853,7 +853,7 @@ $('.form-ajax').submit(function(e) {
 	var postdata = $(this).serialize();
 	$.ajax({
 		type: 'POST',
-		url: 'assets/contact.php',
+		url: 'phpmailer/contact.php',
 		data: postdata,
 		dataType: 'json',
 		success: function(json) {	            
