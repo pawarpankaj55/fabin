@@ -7926,7 +7926,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-1 {
-  background: url(../images/hero/hero-shore.jpg);
+  background: url(../images/hero/fabrication.jpg);
   background-size: cover;
 }
 
@@ -7953,7 +7953,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-2 {
-  background: url(../images/hero/fs-slider.jpg);
+  background: url(../images/hero/machining.jpg);
   background-size: cover;
 }
 
@@ -7984,7 +7984,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-3 {
-  background: url(../images/hero/main.jpg);
+  background: url(../images/hero/design_analysis.jpg);
   background-size: cover;
 }
 
@@ -8014,6 +8014,80 @@ form .input-error-2:focus {
   margin-bottom: 20px;
   color: #999;
 }
+/* Slide 4 */
+
+.fs-slide-4 {
+  background: url(../images/hero/scope.jpg);
+  background-size: cover;
+}
+
+.fs-slide-4 .bg-overlay {
+  background: rgba(17, 17, 17, 0.7);
+}
+
+.fs-slide-4 .hero-content {
+  text-align: center;
+}
+
+.fs-slide-4 .hero-content .hero-lead {
+  margin-bottom: 35px;
+  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 4em;
+  font-weight: 800;
+  letter-spacing: 15px;
+  color: #ececec;
+}
+
+.fs-slide-4 .hero-content .hero-lead span {
+  font-weight: 300;
+}
+
+.fs-slide-4 .hero-content .hero-subheading {
+  margin-top: 100px;
+  margin-bottom: 20px;
+  color: #999;
+}
+
+
+/* Slide 4 */
+
+/* Slide 5 */
+
+.fs-slide-5 {
+  background: url(../images/hero/quality_of_service.jpg);
+  background-size: cover;
+}
+
+.fs-slide-5 .bg-overlay {
+  background: rgba(17, 17, 17, 0.7);
+}
+
+.fs-slide-5 .hero-content {
+  text-align: center;
+}
+
+.fs-slide-5 .hero-content .hero-lead {
+  margin-bottom: 35px;
+  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 4em;
+  font-weight: 800;
+  letter-spacing: 15px;
+  color: #ececec;
+}
+
+.fs-slide-5 .hero-content .hero-lead span {
+  font-weight: 300;
+}
+
+.fs-slide-5 .hero-content .hero-subheading {
+  margin-top: 100px;
+  margin-bottom: 20px;
+  color: #999;
+}
+
+
+/* Slide 5 */
+
 
 /* ---- 20.3 Full Width Slider ---- */
 .fw-slider-hero {
